@@ -39,13 +39,15 @@ The holy blisful martir for to seke,
 
 That hem hath holpen, whan that they were seke.
 
-#todo: put the git info in a pretty display
+# todo: put the git info in a pretty display
         activate menu options in the overlay with 'enter'
-        center the editor in the screen. add vertical padding on both sides
+        center the editor in the screen. 
+        add vertical padding on both sides
         add bg and text color options to the overlay
         add cursor color options to the overlay
         add scroll bar options to the overlay
         add fullscreen mode
         add notifications to the top left of the screen
-        
+        add close buttons to overlay ui (try to make esc work)
+        autosave to git
         
