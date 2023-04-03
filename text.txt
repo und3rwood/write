@@ -50,4 +50,10 @@ That hem hath holpen, whan that they were seke.
         add notifications to the top left of the screen
         add close buttons to overlay ui (try to make esc work)
         autosave to git
+        add tree file display
+            get the info from the git repo
+            create a nesting display
         
+#  wgat 
+        write a tool that categorizes your bookmark collection
+        add twitter bookmarks to it as well
